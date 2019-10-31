@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Factura_Array", "Factura_Array\Factura_Array.vbproj", "{33A066E2-EE59-4F4A-80D6-47EFDE64C380}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33A066E2-EE59-4F4A-80D6-47EFDE64C380}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33A066E2-EE59-4F4A-80D6-47EFDE64C380}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33A066E2-EE59-4F4A-80D6-47EFDE64C380}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33A066E2-EE59-4F4A-80D6-47EFDE64C380}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D072A0C2-5082-4849-A46F-E24B3B277AD0}
+	EndGlobalSection
+EndGlobal
